@@ -1,0 +1,53 @@
+NAME    : ATHIYAMAN M
+
+PROJECT : E-Commerce Sales Analysis using Power BI
+
+Procedure and steps of my project,
+
+Week-2 :
+
+Step 1 : Data Analysis.
+
+      1) Analysed the overview of the data file, it contains 9995 rows and 23 columns.
+     
+      2) It contains sales related parameter's such as customer details, product details, shipment details, number of sales, quantity and profit.
+
+Step 2 : Data Preparation.
+
+     1) Imported the data file (.xlsx formate) into Power BI through get data option.
+
+     2)By using transform data option, checked the validity of the data's which includes error and empty values using "View" option in power query editor.
+
+     3)Analysed and verified that all the data fields are not have null any values or incorrect formate data types. 
+
+Step 3 : Data modeling.
+
+     1) Since, the given xlxs file contains only one data sheet. So, data modeling is not available.
+
+Week-3:
+
+step 4 : Performance of different data Visualiztions with summary analysis writing!
+     
+    1) Page 1 : Analysis 1 - Overall Sales & Profit Performance Analysis
+
+    2) Page 2 : Analysis 2 - Category & Sub-Category Product Analysis
+
+    3) Page 3 : Analysis 3 - Customer Segment Analysis
+
+    4) Page 4 : Analysis 4 - Geographical Sales Analysis
+
+    5) Page 5 : Analysis 5 - Shipment & Orders Analysis
+
+    6) Page 6 : Analysis 6 - Discount & Forecast Analysis
+
+
+(See my visualization work and analysis summary on power BI dashboard!)
+
+
+
+
+
+
+
+
+
