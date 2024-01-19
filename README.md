@@ -84,7 +84,7 @@ The dashboards utilize various chart types, such as line charts, bar charts, map
 
 <h2>Summary(Result)</h2>
 <p>In conclusion, the detailed analysis of the sales data highlights challenges within the Furniture category, specifically in the Bookcases and Tables sub-categories, which experience negative profit margins despite stable sales. Conversely, the Office Supplies and Technology categories exhibit positive trends. To maximize overall profitability, it is recommended to focus investments and marketing efforts on the Technology and Office Supplies segments. A thorough review of the Furniture category is advised, with a specific emphasis on identifying opportunities for improvement in the Bookcases and Tables sub-categories.</p>
-  <h2>Status</h2>
+  <h2>Status </h2>
   <p>The current status of the project is completed!</p>
 
   <h2>Credits</h2>
