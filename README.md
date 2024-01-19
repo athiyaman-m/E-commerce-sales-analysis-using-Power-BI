@@ -39,13 +39,20 @@
   <p>The project utilizes a dataset containing various columns such as order ID, year, order date, ship date, shipment days, ship mode, customer ID, customer name, segment, country, city, state, postal code, region, product ID, category, sub-category, product name, sales, quantity, profit, and discount. This diverse dataset enables comprehensive analysis across different dimensions.</p>
 
   <h2>Screenshots and Visualization Images</h2>
+  
   ![Screenshot (186)](https://github.com/athiyaman-m/E-commerce-sales-analysis-using-Power-BI/assets/116479721/1cd82f2c-06a1-41ea-85bb-7fe543216e4b)
+  
   ![Screenshot (187)](https://github.com/athiyaman-m/E-commerce-sales-analysis-using-Power-BI/assets/116479721/506203af-996e-49f3-8bfe-4820f673f9f5)
+  
   ![Screenshot (188)](https://github.com/athiyaman-m/E-commerce-sales-analysis-using-Power-BI/assets/116479721/20de957a-fc07-4b2b-a40f-5ee68570beb4)
+  
   ![Screenshot (189)](https://github.com/athiyaman-m/E-commerce-sales-analysis-using-Power-BI/assets/116479721/69ecf1cf-490d-4874-91e4
+  
   ![Screenshot (190)](https://github.com/athiyaman-m/E-commerce-sales-analysis-using-Power-BI/assets/116479721/5634ed47-7953-4fa5-8789-c08d7b06a4bb)
--537d18f57cce)
+-537d18f57cce
+
   ![Screenshot (191)](https://github.com/athiyaman-m/E-commerce-sales-analysis-using-Power-BI/assets/116479721/85fb1e9d-1582-4ec7-b8ad-7c33cb18759c)
+  
   ![Screenshot (192)](https://github.com/athiyaman-m/E-commerce-sales-analysis-using-Power-BI/assets/116479721/d6999e9d-533b-4493-beae-f5740e6a5ae6)
 
 
